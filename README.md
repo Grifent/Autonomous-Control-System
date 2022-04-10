@@ -3,4 +3,4 @@ An autonomous differential-drive vehicle designed and simulated using MATLAB bas
 
 Run startup.m for a demonstration.
 
-Requires MATLAB 2020b+, Simulink, Mobile Robotics Toolbox, Control Toolbox
+Requires MATLAB 2020b+, Simulink, Robotics System Toolbox, Mapping Toolbox, Navigation Toolbox, Control System Toolbox
