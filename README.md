@@ -8,4 +8,5 @@ Requires MATLAB 2020b+, Simulink, Robotics System Toolbox, Mapping Toolbox, Navi
 Credit to Brownie5253 https://github.com/brownie5253 for the Astar implementation and majority of the path planning code. 
 
 Demo:
+
 ![image](https://i.imgur.com/Lwci7Sr.gif)
